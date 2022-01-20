@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ~/Dropbox/Professional/Professorship/0_CLASSES/CS561-Spring2021/Slides-PDF/*.pdf ./slides
+cp ~/Dropbox/Professional/Professorship/0_CLASSES/CS561-Spring2022/Slides-PDF/*.pdf ./slides
 
 git pull
 git add slides/*pdf
